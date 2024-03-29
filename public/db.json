@@ -1,0 +1,80 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "image": "https://i.ibb.co/S70qtxL/image-1.png",
+    "review": "Sit amet consectetur. Interdum porta pulvinar non sit aliquam. Aenean pulvinar blandit vel non enim elementum penatibus pellentesque ac. Nec accumsan euismod nulla adipiscing lectus. Morbi elementum a auctor erat diam tellus. Fermentum faucibus nulla enim ornare.Id neque neque pretium enim platea urna non dictum. Faucibus dignissim ridiculus nibh tristique massa non.",
+    "totalPages": 336,
+    "rating": 4.5,
+    "category": "Mystery",
+    "tags": ["Suspense", "Psychological"],
+    "publisher": "Celadon Books",
+    "yearOfPublishing": 2019
+  },
+  {
+    "bookId": 2,
+    "bookName": "Educated",
+    "author": "Tara Westover",
+    "image": "https://i.ibb.co/2y41mmZ/image-2.png",
+    "review": "A compelling memoir about resilience, self-discovery, and the power of education.",
+    "totalPages": 352,
+    "rating": 4.8,
+    "category": "Biography",
+    "tags": ["Inspiring", "Memoir"],
+    "publisher": "Random House",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": 3,
+    "bookName": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "image": "https://i.ibb.co/t4vjpsz/image-3.png",
+    "review": "An enchanting and magical tale set in a mysterious circus that will leave you spellbound.",
+    "totalPages": 400,
+    "rating": 4.3,
+    "category": "Fantasy",
+    "tags": ["Magic", "Romance"],
+    "publisher": "Doubleday",
+    "yearOfPublishing": 2011
+  },
+  {
+    "bookId": 4,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://i.ibb.co/Y0XNmGn/image-4.png",
+    "review": "A timeless classic depicting the decadence and disillusionment of the Jazz Age.",
+    "totalPages": 180,
+    "rating": 4.2,
+    "category": "Classic",
+    "tags": ["American Literature", "Romance"],
+    "publisher": "Charles Scribner's Sons",
+    "yearOfPublishing": 1925
+  },
+  {
+    "bookId": 5,
+    "bookName": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "image": "https://i.ibb.co/rfHRkPp/image-5.png",
+    "review": "A refreshing take on self-help that encourages embracing life's struggles and finding meaning.",
+    "totalPages": 224,
+    "rating": 4.1,
+    "category": "Self-Help",
+    "tags": ["Motivational", "Philosophy"],
+    "publisher": "HarperOne",
+    "yearOfPublishing": 2016
+  },
+  {
+    "bookId": 6,
+    "bookName": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "image": "https://i.ibb.co/qgGNT61/image-6.png",
+    "review": "A magical journey into a world of wizards, friendship, and adventure.",
+    "totalPages": 320,
+    "rating": 4.9,
+    "category": "Fantasy",
+    "tags": ["Magic", "Children's Literature"],
+    "publisher": "Bloomsbury Publishing",
+    "yearOfPublishing": 1997
+  }
+]
